@@ -19,4 +19,6 @@ Adam Thornton
 
 `Go: It Mostly Doesn't Suck <https://athornton.github.io/go-it-mostly-doesnt-suck>`_
 
+`Fallout Pen-and-Paper <https://athornton.github.io/fallout-pen-and-paper>`_
+
 athornton@gmail.com
