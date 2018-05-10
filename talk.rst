@@ -21,4 +21,6 @@ Adam Thornton
 
 `Fallout Pen-and-Paper <https://athornton.github.io/fallout-pen-and-paper>`_
 
+`Singularity Containerization <https://athornton.github.io/singularity-presentation>`_
+
 athornton@gmail.com
