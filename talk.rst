@@ -23,4 +23,6 @@ Adam Thornton
 
 `Singularity Containerization <https://athornton.github.io/singularity-presentation>`_
 
+`If the Data Will Not Come to the Astronomer... <https://athornton.github.io/JupyterCon-2018-talk>`_
+
 athornton@gmail.com
