@@ -29,5 +29,4 @@ Adam Thornton
 
 `If the Data Will Not Come to the Astronomer (late 2019)... <https://athornton.github.io/Tucson-Python-Dec-2019>`_
 
-
 athornton@gmail.com
