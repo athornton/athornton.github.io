@@ -25,4 +25,9 @@ Adam Thornton
 
 `If the Data Will Not Come to the Astronomer... <https://athornton.github.io/JupyterCon-2018-talk>`_
 
+`Tech Dive: Jupyter at LSST <https://athornton.github.io/Jupyter-PCW-2019>`_
+
+`If the Data Will Not Come to the Astronomer (late 2019)... <https://athornton.github.io/Tucson-Python-Dec-2019>`_
+
+
 athornton@gmail.com
