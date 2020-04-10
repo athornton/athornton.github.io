@@ -29,4 +29,7 @@ Adam Thornton
 
 `If the Data Will Not Come to the Astronomer (late 2019)... <https://athornton.github.io/Tucson-Python-Dec-2019>`_
 
+`A brief introduction to the Inform 7 text adventure programming
+language (2029)... <https://athornton.github.io/i7-talk-2020>`_
+
 athornton@gmail.com
