@@ -32,6 +32,8 @@ Adam Thornton
 `A brief introduction to the Inform 7 text adventure programming
 language (April 2020)... <https://athornton.github.io/i7-talk-2020>`_
 
+`A brief overview of the Rubin Observatory (late 2020, updated April 2021)... <https://athornton.github.io/rubin-talk-2020/>`_
+
 `Software Necromancy (April 2021) ... <https://athornton.github.io/software-necromancy>`_
 
 athornton@gmail.com
