@@ -38,4 +38,6 @@ language (April 2020)... <https://athornton.github.io/i7-talk-2020>`_
 
 `Software Necromancy Part II: Return of the Necromancer (May 2021) ... <https://athornton.github.io/return-of-the-necromancer>`_
 
+`A brief overview of the Rubin Observatory (late 2021) ... <https://athornton.github.io/rubin-talk-late-2021/>`_
+
 athornton@gmail.com
