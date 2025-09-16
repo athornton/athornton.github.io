@@ -38,4 +38,6 @@ language (April 2020)... <https://athornton.github.io/i7-talk-2020>`_
 
 `Software Necromancy Part II: Return of the Necromancer (May 2021) ... <https://athornton.github.io/return-of-the-necromancer>`_
 
+`Org-mode export to Reveal.js and PDF (September 2025) ... <https://athornton.github.io/export-org>`_
+
 athornton@gmail.com
